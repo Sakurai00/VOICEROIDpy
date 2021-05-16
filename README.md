@@ -7,7 +7,7 @@ pythonから民安★TALKへの橋渡し
 - 民安★TALK
 - VOICEROID
 
-## Useage
+## Usage
 vrx_pathに民安★TALKのpathを渡す
 ```python
 import voiceroid as v
